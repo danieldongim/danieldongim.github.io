@@ -1,0 +1,68 @@
+
+body{
+    margin: 0px; 
+}
+
+.navbar {
+    color: rgb(37, 42, 44);
+    float: right; 
+    margin-top: 30px;  
+    padding-top: 50px; 
+    padding-bottom: 40px; 
+}
+
+#contact {
+    margin: 25px; 
+    color: rgb(37, 42, 44);
+    text-decoration: none; 
+}
+
+#resume {
+    margin: 25px;   
+    color: rgb(37, 42, 44);
+    text-decoration: none; 
+}
+
+hr {
+    border: 1px thick; 
+    clear: both; 
+}
+
+img{
+    padding-top: 50px;
+    padding-left: 20px;  
+    border-radius: 75%; 
+    width: 400px; 
+    height: 400px; 
+    display: inline-block; 
+    float: left; 
+}
+
+header>div {
+    width: 300px; 
+    height: 100px; 
+    font-size: 60px; 
+    font-family: 'Laila', serif; 
+    position: relative; 
+    left: 50px; 
+    top: 50px; 
+    float: left; 
+    color: rgb(167, 189, 194);
+}
+
+article div{
+    position: relative; 
+    top: 75px; 
+    left: 50px; 
+    right: 20px; 
+    color: rgb(41, 35, 35);
+    font-size: 16px; 
+    line-height: 50px; 
+    font-family: 'Montserrat', sans-serif;
+}
+
+div a{
+    text-decoration: none;
+    color: burlywood;
+}
+
